@@ -1,0 +1,68 @@
+.bg-container{
+    background-color: rgb(3, 29, 29);
+    height: 1000px;
+    color: white;
+}
+.heading{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.card_con{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.heading_1{
+    color: white;
+    font-size: 25px;
+}
+.card_temp{
+    background-color: #ffffff20;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fa-temperature-three-quarters{
+    align-self: center;
+}
+.c{
+    width: 200px;
+}
+.celsius{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fahrenheit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kelvin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d{
+    width: 40px;
+    text-align: center;
+    height:30px;
+    background-color: rgb(3, 29, 29);
+   
+}
+.temp_card{
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.clear{
+    text-align: center;
+}
